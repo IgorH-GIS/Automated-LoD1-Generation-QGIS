@@ -1,0 +1,28 @@
+# Local GIS working data
+*.tif
+*.tiff
+*.aux.xml
+*.bin
+
+# Local QA test data
+LoD1_QA_Test_Data/
+outputs/
+test_data/
+
+# Recruitment documents
+CV_*.pdf
+List_Motywacyjny*.pdf
+
+# QGIS temporary files
+*.qgz~
+*.qgd
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
